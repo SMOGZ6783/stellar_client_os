@@ -10,12 +10,9 @@ build/
 dist/
 
 # Environment
-.env
-.env.local
 .env*.local
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -59,3 +56,4 @@ Cargo.lock
 # Local issue tracking / scratch notes
 issues/
 .claude
+config.bat
