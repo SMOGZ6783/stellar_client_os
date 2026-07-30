@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/zk-donor-verification",
+    "fix/clamp-total-pages-minimum-1",
+    "fix/main-broken-merge-247",
+    "fix/web-use-pagination-clamp-total-pages",
+    "main",
+    "origin",
+    "revert-94-feat/sdk-unit-tests"
+  ],
+  "parent": {
+    "feature/zk-donor-verification": "main",
+    "fix/clamp-total-pages-minimum-1": "main",
+    "fix/main-broken-merge-247": "main",
+    "fix/web-use-pagination-clamp-total-pages": "main",
+    "main": null,
+    "origin": "main",
+    "revert-94-feat/sdk-unit-tests": "main"
+  },
+  "order": [
+    "main",
+    "feature/zk-donor-verification",
+    "fix/clamp-total-pages-minimum-1",
+    "fix/main-broken-merge-247",
+    "fix/web-use-pagination-clamp-total-pages",
+    "origin",
+    "revert-94-feat/sdk-unit-tests"
+  ]
+}
